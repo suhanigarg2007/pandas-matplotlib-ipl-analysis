@@ -54,6 +54,8 @@ This practice notebook is based on the CampusX YouTube tutorial series for learn
 ```python
 import matplotlib.pyplot as plt
 
+---
+
 ## Summary
 
 This repository is created for practicing and understanding the basics of Pandas and Matplotlib using the IPL dataset (2008-2020).  
